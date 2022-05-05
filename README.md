@@ -1,2 +1,2 @@
 # Minute: React Web Application
-https://minute-app.herokuapp.com/
+https://minute-app-spark.herokuapp.com/
